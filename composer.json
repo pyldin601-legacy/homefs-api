@@ -1,0 +1,18 @@
+{
+  "name": "pldin601/homefs-api",
+  "description": "HomeFS File Server API",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Roman Gemini",
+      "email": "roman_gemini@ukr.net"
+    }
+  ],
+  "require": {
+    "kote/router": "^1.2"
+  },
+  "autoload": {
+    "files": ["app/functions.php"]
+  }
+}
