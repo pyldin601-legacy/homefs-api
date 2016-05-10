@@ -5,8 +5,6 @@
  * @time 19:03
  */
 
-
 require_once "../vendor/autoload.php";
-
-require_once "../app/routes.php";
+require_once "../app/bootstrap.php";
 

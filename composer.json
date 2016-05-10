@@ -10,7 +10,8 @@
     }
   ],
   "require": {
-    "kote/router": "^1.2"
+    "kote/router": "^1.2",
+    "kote/container": "^1.0"
   },
   "autoload": {
     "files": ["app/functions.php"]
